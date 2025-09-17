@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Profile views](https://komarev.com/ghpvc/?username=StevanJc21&label=Profile%20views&color=0e75b6&style=flat)
 
 <!--
 **StevanJc21/StevanJc21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
