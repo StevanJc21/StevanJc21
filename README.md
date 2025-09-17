@@ -1,5 +1,7 @@
 ## Hi there 👋
 ![Profile views](https://komarev.com/ghpvc/?username=StevanJc21&label=Profile%20views&color=0e75b6&style=flat)
+![Snake animation](https://raw.githubusercontent.com/StevanJc21/StevanJc21/output/github-contribution-grid-snake.svg)
+
 
 <!--
 **StevanJc21/StevanJc21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
