@@ -6,7 +6,14 @@
 ![Profile views](https://komarev.com/ghpvc/?username=StevanJc21&label=Profile%20views&color=0e75b6&style=flat)
 ![Snake animation](https://raw.githubusercontent.com/StevanJc21/StevanJc21/output/github-contribution-grid-snake.svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=0e75b6&center=true&vCenter=true&width=600&lines=Python+🐍;Power+BI+📊;Excel+📑;SQL+🗄️;GitHub+💻)](https://git.io/typing-svg)
+### Tecnologías que manejo:
+
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="25"/> Python |
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="25"/> Power BI |
+<img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="25"/> Excel |
+<img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="25"/> SQL |
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="25"/> Git & GitHub
+
 
 
 
